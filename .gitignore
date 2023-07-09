@@ -1,0 +1,9 @@
+/.idea/
+/target/classes/
+/target/jacoco*
+/target/maven*
+/target/*.jar
+/target/test*
+/target/sure*
+/target/site/jacoco/com*
+/target/site/jacoco/jac*
